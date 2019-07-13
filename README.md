@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome bot greats users and guides them through the application, step by step, in an educational way.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+*Step by step instruction
+*Feedback
+*Helpful Tips
+*Interactive
+*Intuitive
 
 ## Getting started
 
